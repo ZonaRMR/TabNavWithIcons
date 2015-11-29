@@ -3,8 +3,6 @@ package com.suedinym.tabnavwithicons;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.support.design.widget.TabLayout;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -17,13 +15,9 @@ import android.os.Bundle;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.style.ImageSpan;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
 
 import com.suedinym.tabnavwithicons.fragments.FourFragment;
 import com.suedinym.tabnavwithicons.fragments.OneFragment;
-import com.suedinym.tabnavwithicons.fragments.PlaceholderFragment;
 import com.suedinym.tabnavwithicons.fragments.ThreeFragment;
 import com.suedinym.tabnavwithicons.fragments.TwoFragment;
 
